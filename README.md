@@ -24,9 +24,10 @@
 <h2 >Conéctate conmigo🤝</h2>
 <!--icons and links-->
 <p align="left">
-  <a href="https://www.linkedin.com/in/ricardo-diego-valencia-ortiz-605373157/" target="blank"><img src="https://skillicons.dev/icons?linkedin" />
+  <a href="https://www.linkedin.com/in/TU_USUARIO_LINKEDIN" target="_blank">
+    <img src="https://skillicons.dev/icons?i=linkedin" alt="LinkedIn" />
   </a>
-</p>
-
-
+  <a href="mailto:tu.correo@gmail.com">
+    <img src="https://skillicons.dev/icons?i=gmail" alt="Gmail" />
+  </a>
 </p>
