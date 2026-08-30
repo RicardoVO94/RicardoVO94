@@ -26,11 +26,11 @@
 <p align="left">
   <a href="https://www.linkedin.com/in/ricardo-diego-valencia-ortiz-605373157/" target="_blank" style="text-decoration: none;">
     <img src="https://skillicons.dev/icons?i=linkedin" alt="LinkedIn" align="middle" style="margin-right: 12px;" />
-    <span style="vertical-align: middle;" margin-right> Ricardo Diego Valencia Ortiz </span>
+    <span style="vertical-align: middle; margin-left: 12px" margin-right> Ricardo Diego Valencia Ortiz </span>
   </a>
   <br><br>
   <a href="mailto:ricardo.diego.v.o@gmail.com" style="text-decoration: none;">
     <img src="https://skillicons.dev/icons?i=gmail" alt="Gmail" align="middle" style="margin-right: 12px;" />
-    <span style="vertical-align: middle;"> ricardo.diego.v.o@gmail.com</span>
+    <span style="vertical-align: middle; margin-left: 12px"> ricardo.diego.v.o@gmail.com</span>
   </a>
 </p>
