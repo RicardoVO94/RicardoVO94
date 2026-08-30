@@ -24,10 +24,13 @@
 <h2 >Conéctate conmigo🤝</h2>
 <!--icons and links-->
 <p align="left">
-  <a href="https://www.linkedin.com/in/TU_USUARIO_LINKEDIN" target="_blank">
-    <img src="https://skillicons.dev/icons?i=linkedin" alt="LinkedIn" />
+  <a href="https://www.linkedin.com/in/ricardo-diego-valencia-ortiz-605373157/" target="_blank" style="text-decoration: none;">
+    <img src="https://skillicons.dev/icons?i=linkedin" alt="LinkedIn" style="vertical-align: middle;" />
+    <span style="vertical-align: middle;"> Ricardo Diego Valencia Ortiz </span>
   </a>
-  <a href="mailto:tu.correo@gmail.com">
-    <img src="https://skillicons.dev/icons?i=gmail" alt="Gmail" />
+  <br><br>
+  <a href="mailto:ricardo.diego.v.o@gmail.com" style="text-decoration: none;">
+    <img src="https://skillicons.dev/icons?i=gmail" alt="Gmail" style="vertical-align: middle;" />
+    <span style="vertical-align: middle;"> ricardo.diego.v.o@gmail.com</span>
   </a>
 </p>
