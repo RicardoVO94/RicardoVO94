@@ -1,5 +1,5 @@
 <h1 align="center">Hola 👋, Soy Ricardo Diego Valencia Ortiz</h1>
-<h2>Sobre mi 📱 Sobre mí</h2>
+<h2>Sobre mí 📱</h2>
 <!--Intro start-->
 
 <p align="left">
