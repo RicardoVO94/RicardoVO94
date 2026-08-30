@@ -24,7 +24,9 @@
 <h2 >Conéctate conmigo🤝</h2>
 <!--icons and links-->
 <p align="left">
-<a href="https://www.linkedin.com/in/ricardo-diego-valencia-ortiz-605373157/" target="blank"><img src="https://skillicons.dev/icons?linkedin" /></a>
+  <a href="https://www.linkedin.com/in/ricardo-diego-valencia-ortiz-605373157/" target="blank"><img src="https://skillicons.dev/icons?linkedin" />
+  </a>
+</p>
 
 
 </p>
