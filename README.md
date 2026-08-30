@@ -10,11 +10,12 @@
 <!--Intro end-->
   </p>
 <br>
+
 <h2 >Tecnologías conocidas👨🏻‍💻</h2>
 <!--tech stack icons-->
 <p align="left">
   <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=androidstudio, kotlin,java,gradle,spring,cs,dotnet,visualstudio,php,js,css,html,mysql,postgres,sqlite,firebase,aws,gtk,git,gitlab,github,docker,postman,idea,vscode,atom,sublime,eclipse,linux,bash" />
+    <img src="https://skillicons.dev/icons?i=androidstudio,c,cs,cpp,java,php,dart,flutter,py,dotnet,css,html,js,nodejs,mysql,sqlite,firebase,gtk,git,github,docker,materialui,postman,eclipse,vscode,bash,linux,ai,ps&perline=12" />
   </a>
 </p>
 <br>
