@@ -14,7 +14,7 @@
 <!--tech stack icons-->
 <p align="left">
   <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=androidstudio, kotlin,java,gradle,spring,cs,dotnet,visualstudio,php,js,css,html,mysql,postgres,sqlite,firebase,aws,gtk,git,gitlab,github,docker,postman,idea,vscode,atom,sublime,eclipse,linux,bash&perline=5" />
+    <img src="https://skillicons.dev/icons?i=androidstudio, kotlin,java,gradle,spring,cs,dotnet,visualstudio,php,js,css,html,mysql,postgres,sqlite,firebase,aws,gtk,git,gitlab,github,docker,postman,idea,vscode,atom,sublime,eclipse,linux,bash" />
   </a>
 </p>
 <br>
