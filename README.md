@@ -42,12 +42,17 @@
 
 ### ⚙️ Automatización y Gestión de Dependencias:
 <a href="https://skillicons.dev">
-  <img src="https://skillicons.dev" alt="Gestión de Dependencias" />
+  <img src="https://skillicons.dev/icons?i=gradle,maven" alt="Gestión de Dependencias" />
+</a>
+
+### 🚀 Control de Versiones y DevOps:
+<a href="https://skillicons.dev">
+  <img src="https://skillicons.dev/icons?i=git,gitlab,bitbucket,github" alt="Control de Versiones y DevOps" />
 </a>
 
 ### 🛠️ Herramientas:
 <a href="https://skillicons.dev">
-  <img src="https://skillicons.dev/icons?i=gradle,maven,aws,git,gitlab,bitbucket,github,docker,postman,bash,powershell,md,nginx" alt="Herramientas" />
+  <img src="https://skillicons.dev/icons?i=aws,docker,postman,bash,powershell,md,nginx" alt="Herramientas" />
 </a>
 
 <br>
