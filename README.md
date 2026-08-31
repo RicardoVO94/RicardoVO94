@@ -32,7 +32,7 @@
 
 ### 🖥️ IDEs:
 <a href="https://skillicons.dev">
-  <img src="https://skillicons.dev/icons?i=androidstudio,idea,vscode,atom,sublime,eclipse" alt="IDEs" />
+  <img src="https://skillicons.dev/icons?i=androidstudio,idea,visualstudio,vscode,atom,sublime,eclipse" alt="IDEs" />
 </a>
 
 ### 💽 Sistemas Operativos:
