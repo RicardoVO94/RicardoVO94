@@ -16,20 +16,20 @@
 <h2 >Tecnologías conocidas👨🏻‍💻</h2>
 <!--tech stack icons-->
 <p align="left">
-  <h3 >💻 Lenguajes de programación: </h3>
+  <h3 > 💻 Lenguajes de programación: </h3>
   <a href="https://skillicons.dev">
     <img src="https://skillicons.dev/icons?i=kotlin,java,cs,php,js,html,css" />
-  <h3 >📊 Bases de Datos: </h3>
+  <h3 > 📊 Bases de Datos: </h3>
       <img src="https://skillicons.dev/icons?i=mysql,postgres,sqlite,firebase" />
-  <h3 >📊 Frameworks: </h3>
+  <h3 > 📊 Frameworks: </h3>
     <a href="https://skillicons.dev">
     <img src="https://skillicons.dev/icons?i=spring,dotnet" />
-  <h3 >IDEs: </h3>
+  <h3 > IDEs: </h3>
   <a href="https://skillicons.dev">
     <img src="https://skillicons.dev/icons?i=androidstudio,idea,vscode,atom,sublime,eclipse" />
-  <h3 >Herramientas: </h3>
+  <h3 > Herramientas: </h3>
   <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=aaws,git,gitlab,github,docker,postmanlinux,bash" />
+    <img src="https://skillicons.dev/icons?i=aws,git,gitlab,github,docker,postman,linux,bash" />
   </a>
 </p>
 <br>
