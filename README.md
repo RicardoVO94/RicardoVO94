@@ -47,12 +47,12 @@
 
 ### 🚀 Control de Versiones y DevOps:
 <a href="https://skillicons.dev">
-  <img src="https://skillicons.dev/icons?i=git,gitlab,bitbucket,github" alt="Control de Versiones y DevOps" />
+  <img src="https://skillicons.dev/icons?i=git,gitlab,bitbucket,github,aws,docker" alt="Control de Versiones y DevOps" />
 </a>
 
 ### 🛠️ Herramientas:
 <a href="https://skillicons.dev">
-  <img src="https://skillicons.dev/icons?i=aws,docker,postman,bash,powershell,md,nginx" alt="Herramientas" />
+  <img src="https://skillicons.dev/icons?i=postman,bash,powershell,md,nginx" alt="Herramientas" />
 </a>
 
 <br>
