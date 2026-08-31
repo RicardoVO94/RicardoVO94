@@ -4,6 +4,7 @@
 
 <p align="left">
   <picture> <img align="right" src="https://github.com/7oSkaaa/7oSkaaa/blob/main/Images/Right_Side.gif?raw=true" width = 250px></picture>
+  <br>
 * 🎓 **Ingeniero en Sistemas Computacionales**
 * 📱 **Desarrollador de aplicaciones móviles Android**
 
