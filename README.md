@@ -4,10 +4,10 @@
 
 <p align="left">
   <picture> <img align="right" src="https://github.com/7oSkaaa/7oSkaaa/blob/main/Images/Right_Side.gif?raw=true" width = 250px></picture>
-  <br><br>
-🎓 INGENIERO EN SISTEMAS COMPUTACIONALES
+* 🎓 **Ingeniero en Sistemas Computacionales**
+* 📱 **Desarrollador de aplicaciones móviles Android**
 
-💻 ¡Hola! Soy **Ingeniero en Sistemas Computacionales** enfocado en el desarrollo de **aplicaciones móviles para Android**. Me apasiona diseñar interfaces de usuario atractivas y escribir código limpio y eficiente utilizando tecnologías modernas del ecosistema Android.
+¡Hola! Soy **Ingeniero en Sistemas Computacionales** enfocado en el desarrollo de **aplicaciones móviles para Android**. Me apasiona diseñar interfaces de usuario atractivas y escribir código limpio y eficiente utilizando tecnologías modernas del ecosistema Android.
 
 <!--Intro end-->
   </p>
