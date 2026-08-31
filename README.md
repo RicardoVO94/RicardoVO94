@@ -19,21 +19,31 @@
   <h3 > 💻 Lenguajes de programación: </h3>
   <a href="https://skillicons.dev">
     <img src="https://skillicons.dev/icons?i=kotlin,java,cs,php,js,html,css" />
-  <h3 > 📊 Bases de Datos: </h3>
+  <h3 > 🗄️ Bases de Datos: </h3>
       <img src="https://skillicons.dev/icons?i=mysql,postgres,sqlite,firebase" />
-  <h3 > 📊 Frameworks: </h3>
+  <h3 > 🏗️ Frameworks: </h3>
     <a href="https://skillicons.dev">
     <img src="https://skillicons.dev/icons?i=spring,dotnet" />
-  <h3 > IDEs: </h3>
+  <h3 > 🖥️ IDEs: </h3>
   <a href="https://skillicons.dev">
     <img src="https://skillicons.dev/icons?i=androidstudio,idea,vscode,atom,sublime,eclipse" />
-  <h3 > Herramientas: </h3>
+  <h3 > 🛠️ Herramientas: </h3>
   <a href="https://skillicons.dev">
     <img src="https://skillicons.dev/icons?i=aws,git,gitlab,github,docker,postman,linux,bash" />
   </a>
 </p>
 <br>
 <!-------------------------->
+
+<h2>⚙️ &nbsp;GitHub Analytics</h2>
+<!--Intro start-->
+<p align="center">
+<a href="https://github.com/AVS1508">
+  <img height="180em" src="https://github-readme-stats-eight-theta.vercel.app/api?username=AVS1508&show_icons=true&theme=algolia&include_all_commits=true&count_private=true"/>
+  <img height="180em" src="https://github-readme-stats-eight-theta.vercel.app/api/top-langs/?username=AVS1508&layout=compact&langs_count=8&theme=algolia"/>
+</a>
+</p>
+<!--Intro end-->
 
 <h2 >Conéctate conmigo <img src='https://raw.githubusercontent.com/ShahriarShafin/ShahriarShafin/main/Assets/handshake.gif' width="100px"></h2>
 <!--icons and links-->
