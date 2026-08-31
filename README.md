@@ -40,6 +40,11 @@
   <img src="https://skillicons.dev/icons?i=windows,apple,linux,mint" alt="SistemasOperativos" />
 </a>
 
+### ⚙️ Automatización y Gestión de Dependencias:
+<a href="https://skillicons.dev">
+  <img src="https://skillicons.dev" alt="Gestión de Dependencias" />
+</a>
+
 ### 🛠️ Herramientas:
 <a href="https://skillicons.dev">
   <img src="https://skillicons.dev/icons?i=gradle,maven,aws,git,gitlab,bitbucket,github,docker,postman,bash,powershell,md,nginx" alt="Herramientas" />
