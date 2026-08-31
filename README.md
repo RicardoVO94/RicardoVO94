@@ -35,9 +35,14 @@
   <img src="https://skillicons.dev/icons?i=androidstudio,idea,vscode,atom,sublime,eclipse" alt="IDEs" />
 </a>
 
+### 💽 Sistemas Operativos:
+<a href="https://skillicons.dev">
+  <img src="https://skillicons.dev/icons?i=windows,apple,linux,mint" alt="SistemasOperativos" />
+</a>
+
 ### 🛠️ Herramientas:
 <a href="https://skillicons.dev">
-  <img src="https://skillicons.dev/icons?i=aws,git,gitlab,github,docker,postman,linux,bash" alt="Herramientas" />
+  <img src="https://skillicons.dev/icons?i=gradle,maven,aws,git,gitlab,bitbucket,github,docker,postman,bash,powershell,md,nginx" alt="Herramientas" />
 </a>
 
 <br>
